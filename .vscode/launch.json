@@ -1,0 +1,77 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "LSearch",
+            "request": "launch",
+            "mainClass": "LSearch",
+            "projectName": "MCA-training_df4808e7"
+        },
+        {
+            "type": "java",
+            "name": "TitleCase",
+            "request": "launch",
+            "mainClass": "TitleCase",
+            "projectName": "MCA-training_df4808e7"
+        },
+        {
+            "type": "java",
+            "name": "StringFormater",
+            "request": "launch",
+            "mainClass": "StringFormater",
+            "projectName": "MCA-training_df4808e7"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "CheckPrime",
+            "request": "launch",
+            "mainClass": "CheckPrime",
+            "projectName": "MCA-training_df4808e7"
+        },
+        {
+            "type": "java",
+            "name": "ConstOverload",
+            "request": "launch",
+            "mainClass": "ConstOverload",
+            "projectName": "MCA-training_df4808e7"
+        },
+        {
+            "type": "java",
+            "name": "SimpleI",
+            "request": "launch",
+            "mainClass": "SimpleI",
+            "projectName": "MCA-training_df4808e7"
+        },
+        {
+            "type": "java",
+            "name": "TwinPrime",
+            "request": "launch",
+            "mainClass": "TwinPrime",
+            "projectName": "MCA-training_df4808e7"
+        },
+        {
+            "type": "java",
+            "name": "perfecN",
+            "request": "launch",
+            "mainClass": "perfecN",
+            "projectName": "MCA-training_df4808e7"
+        },
+        {
+            "type": "java",
+            "name": "volumeC",
+            "request": "launch",
+            "mainClass": "volumeC",
+            "projectName": "MCA-training_df4808e7"
+        }
+    ]
+}
