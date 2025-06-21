@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "QueueDemo",
+            "request": "launch",
+            "mainClass": "QueueDemo",
+            "projectName": "MCA-training_df4808e7"
+        },
+        {
+            "type": "java",
+            "name": "stack",
+            "request": "launch",
+            "mainClass": "stack",
+            "projectName": "MCA-training_df4808e7"
+        },
+        {
+            "type": "java",
+            "name": "LinkedList",
+            "request": "launch",
+            "mainClass": "LinkedList",
+            "projectName": "MCA-training_df4808e7"
+        },
+        {
+            "type": "java",
             "name": "LSearch",
             "request": "launch",
             "mainClass": "LSearch",
