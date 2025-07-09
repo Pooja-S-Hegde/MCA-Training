@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BinarytoDec",
+            "request": "launch",
+            "mainClass": "BinarytoDec",
+            "projectName": "MCA-training_df4808e7"
+        },
+        {
+            "type": "java",
+            "name": "LC",
+            "request": "launch",
+            "mainClass": "LC",
+            "projectName": "MCA-training_df4808e7"
+        },
+        {
+            "type": "java",
+            "name": "leetcode1",
+            "request": "launch",
+            "mainClass": "leetcode1",
+            "projectName": "MCA-training_df4808e7"
+        },
+        {
+            "type": "java",
             "name": "QueueDemo",
             "request": "launch",
             "mainClass": "QueueDemo",
